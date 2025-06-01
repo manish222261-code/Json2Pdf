@@ -1,0 +1,169 @@
+{
+  "university": "Jharkhand University of Technology, Ranchi",
+  "exam": "B.Tech. 2nd  Semester  Examination, 2024 (NEP)",
+  "semester": "2nd Semester",
+  "branch": "CSE",
+  "subject": "Engineering Mathematics-2",
+  "subject_code": "BSM02",
+  "duration": "3 Hours",
+  "full_marks": 70,
+  "questions": [
+        {
+          "number":1,
+          "sub_questions":[
+          {
+          "sub_number": "1",
+          "text": "The particular integral of (D^2 + 4)y = sin3x is",
+          "options": ["\\frac{-\\sin3x}{5}", "\\frac{-\\sin3x}{4}", "\\frac{\\cos3x}{4}", "\\frac{\\cos3x}{5}"],
+          "answer": "Oracle",
+          "marks": 2
+        },
+        {
+          "sub_number": "2",
+          "text": "Using method of undetemined co-efficient yp of \\(y''\\) + 4\\(y'\\) + 4y = 2x^2 is of the form",
+          "options": ["a + bx" , "a + bx + cx^2", "ax + bx^2 + cx^3" , "None of these"],
+          "answer": "Primary Key",
+          "marks": 2
+        },
+        {
+          "sub_number": 3,
+          "text": "The differential equations(x^2 - ay)dx \\aprox (ax-y^2)dy is",
+          "options": ["Homogeneous" , "Linear", "Non-Linear" , "Exact"],
+          "answer": "Primary Key",
+          "marks": 2
+        },
+        {
+          "sub_number": 4,
+          "text": "If f(x) = cosx in {-pi,pi) then the Fourier series of f(x) contains",
+          "options": ["only sine terms" , "only cosine terms", "Both (a) and (b)" , "None of these"],
+          "answer": "Primary Key",
+          "marks": 2
+        },
+        {
+          "sub_number": 5,
+          "text": "The nature of the differential equation 4 \\frac{\\partial^2 u}{\\partial x^2} + 4 \\frac{\\partial^2 u}{\\partial x \\partial y} + \\frac{\\partial^2 u}{\\partial y^2}",
+          "options": ["Elliptic" , "Parabolic", "Hyperbolic" , "None of these"],
+          "answer": "Primary Key",
+          "marks": 2
+        },
+        {
+          "sub_number": 6,
+          "text": "The odds in favor of an event A are 5 to 4. The probability of success of A is ",
+          "options": ["\\frac{4}{5}" , "\\frac{5}{9}", "\\frac{4}{9}" , "1"],
+          "answer": "Primary Key",
+          "marks": 2
+        },
+        {
+          "sub_number": 7,
+          "text": "If the mean of a Poisson distribution is m then STD of this distribution",
+          "options": ["m^2" , "m", "\\sqrt{\\m}" , "None of these"],
+          "answer": "Primary Key",
+          "marks": 2
+        }
+          ]
+        },
+        {
+          "number": 2,
+          "sub_questions": [
+            {
+              "sub_number": "a",
+              "text": "Solve : (x + 1) dy\\dx - y = e",
+              "marks": 4
+            },
+            {
+              "sub_number": "b",
+              "text": "Solve : xydx - (x^2 + 2y^2)dy",
+              "marks": 5
+            },
+            {
+              "sub_number": "c",
+              "text": "Obtain the complete solution of ",
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "sub_questions":[
+            {
+              "sub_number":"a",
+              "text":"Using method of variation of parameters, solve ",
+              "marks":7
+            },
+            {
+              "sub_number":"b",
+              "text":"Solve : ",
+              "marks":7
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "sub_questions":[
+            {
+              "sub_number":"a",
+              "text":"Find the orthogonal trajectories of the family y^2 = 4ax.",
+              "marks":7
+            },
+            {
+              "sub_number":"b",
+              "text":"A body originally at 80C cools down to 60C in 20 minutes, the temperature of the air being 40C. What will be the temperature of the body after 40 minutes from the original?",
+              "marks":7
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "sub_questions":[
+            {
+              "sub_number":"a",
+              "text":"Find the half range sine series for f(x) = x cos x in (0 , pi)",
+              "marks":7
+            },
+            {
+              "sub_number":"b",
+              "text":"Solve : p tan x + q tan y = tan z",
+              "marks":7
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "sub_questions":[
+            {
+              "sub_number":"a",
+              "text":"Using the method of separation of variables, solve 3",
+              "marks":7
+            },
+            {
+              "sub_number":"b",
+              "text":"A tightly streched string with fixed end points x = 0 and x = t is initially at rest in its equilibrium position. If each of its points is given at velocity x(l-x). Find the displacement of the string at any distance x from one end at any time t.",
+              "marks":7
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "sub_questions":[
+            {
+              "sub_number":"a",
+              "text":"X is a continuous random variable with the probability density function given by",
+              "marks":7
+            },
+            {
+              "sub_number":"b",
+              "text":"A certain screw making machine produces on average of 2 defective screws out ot 100 packs them in boxes of 5O0. Find the probability that a box contain 15 defective screws",
+              "marks":7
+            },
+            {
+              "sub_number":"c",
+              "text":"The random varkable X is normally distributed with mean equal to 9 and standand deviation 3. Find P(X >= 15) and P(Q <= X <= 9). {psi(0 <= Z <= 2) = 0.4772 , psi(0 <= Z <= 3) = 0.4987}"
+            }
+          ]
+        }
+      ]
+    }
+      
+      
+    
+  
