@@ -1,0 +1,179 @@
+{
+  "university": "Jharkhand University of Technology, Ranchi",
+  "exam": "B.Tech. 3rd Semester Examination,2023",
+  "semester": "3rd Semester",
+  "branch": "ALL",
+  "subject": " Environmental Science",
+  "subject_code": " BSC-302",
+  "duration": "3 Hours",
+  "full_marks": 70,
+  "pass_marks": 21,
+  "questions": [
+    {
+      "number": 1,
+      "text": "Choose the correct answer",
+      "sub_questions": [
+        {
+          "sub_number": "(i)",
+          "text": "BOD is important for",
+          "options": [
+            "sewage treatment",
+            "plant treatment",
+            "skin treatment",
+            "animal treatment"
+          ],
+          "answer": "sewage treatment",
+          "marks": 2
+        },
+        {
+          "sub_number": "(ii)",
+          "text": "CO is major pollutant of",
+          "options": [
+            "water",
+            "air",
+            "noise",
+            "soil"
+          ],
+          "answer": "air",
+          "marks": 2
+        },
+        {
+          "sub_number": "(iii)",
+          "text": "Bhopal gas tragedy ocurred due to leakage of",
+          "options": [
+            "MIC",
+            "DDT",
+            "SO2",
+            "Dioxins"
+          ],
+          "answer": "MIC",
+          "marks": 2
+        },
+        {
+          "sub_number": "(iv)",
+          "text": "The most important agents for ozone depletion are",
+          "options": [
+            "Methane",
+            "CFC's",
+            "Nuclear fallout",
+            "Nitrous oxide"
+          ],
+          "answer": "CFC's",
+          "marks": 2
+        },
+        {
+          "sub_number": "(v)",
+          "text": "World Environment day is",
+          "options": [
+            "5th June",
+            "1st December",
+            "11th July",
+            "22nd April"
+          ],
+          "answer": "5th June",
+          "marks": 2
+        },
+        {
+          "sub_number": "(vi)",
+          "text": "Wood pulp is used for making",
+          "options": [
+            "Lumbar",
+            "Chiphoard",
+            "Paper",
+            "Plywood"
+          ],
+          "answer": "Paper",
+          "marks": 2
+        },
+        {
+          "sub_number": "(vii)",
+          "text": "Over grazing results in",
+          "options": [
+            "Productive soil",
+            "Soil erosion",
+            "Retention of useful paper",
+            "All of these"
+          ],
+          "answer": "Soil erosion",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "sub_questions": [
+        {
+          "sub_number": "a",
+          "text": "Describe the sources. effects and control of noise pollution",
+          "marks": 14
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "sub_questions": [
+        {
+          "sub_number": "a",
+          "text": "Explain the major sources of soil pollution. Describe how soil pollution affect soil productivity and also discuss prevention of soil pollution",
+          "marks": 14
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "sub_questions": [
+        {
+          "sub_number": "a",
+          "text": "Define ecology and ecosystems and discuss biotic and abiotic components of an ecosystem",
+          "marks": 14
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "sub_questions": [
+        {
+          "sub_number": "a",
+          "text": "Define rain water harvesting. Discuss its importance. Explain sustainable development",
+          "marks": 14
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "sub_questions": [
+        {
+          "sub_number": "a",
+          "text": "Discuss your innovative ideas to propagate environmental awareness in the society",
+          "marks": 7
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "Write short notes",
+      "sub_questions": [
+        {
+          "sub_number": "a",
+          "text": "Thermal pollution",
+          "marks": 3.5
+        },
+        {
+          "sub_number": "b",
+          "text": "Acid rain",
+          "marks": 3.5
+        },
+        {
+          "sub_number": "c",
+          "text": "e-Waste",
+          "marks": 3.5
+        },
+        {
+          "sub_number": "d",
+          "text": "Green technology",
+          "marks": 3.5
+        }
+      ]
+    }
+  ]
+}
